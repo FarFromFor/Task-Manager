@@ -1,0 +1,19 @@
+1.1 - hranicni cas vsech eventu v jeden den (krome "Reminder")
+1.2 - hranicni cas v ruznych dnech
+1.3 - hranicni cas opakujicich se eventu
+1.4 - hranicni cas jednorazovych a opakujicich se eventu
+
+2.1 - jeden jednorazovy event koliduje s dvema, ktere mezi sebou nekoliduji
+2.2 - castecna kolize dvou opakujicich se eventu
+2.3 - kolize dvou opakujicich se eventu s jednim jednorazovym
+
+3.1 - jeden event prekrocuje pocet kolizi pro vsechny eventy z testu 1.1 krome "Reminder"
+
+4.1 - predvyplneny kalendar pro demonstraci "Show events"
+
+5.1 - predvyplneny kalendar pro demonstraci "Find events"
+
+6.1 - poskozeny input file
+6.2 - poskozeny input file
+6.3 - poskozeny input file
+6.4 - poskozeny input file
